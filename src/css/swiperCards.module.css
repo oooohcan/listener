@@ -1,0 +1,54 @@
+.Swiper {
+  width: 240px;
+  height: 320px;
+}
+
+.SwiperSlide {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border-radius: 18px;
+  font-size: 22px;
+  font-weight: bold;
+  color: #fff;
+  padding: 2rem;
+}
+.SwiperSlide:nth-child(1n) {
+  background-color: #eb4d4b;
+}
+
+.SwiperSlide:nth-child(2n) {
+  background-color: #7ed6df;
+}
+
+.SwiperSlide:nth-child(3n) {
+  background-color: #f0932b;
+}
+
+.SwiperSlide:nth-child(4n) {
+  background-color: #badc58;
+}
+
+.SwiperSlide:nth-child(5n) {
+  background-color: #130f40;
+}
+
+.SwiperSlide:nth-child(6n) {
+  background-color: #f9ca24;
+}
+
+.SwiperSlide:nth-child(7n) {
+  background-color: #6ab04c;
+}
+
+.SwiperSlide:nth-child(8n) {
+  background-color: #22a6b3;
+}
+
+.SwiperSlide:nth-child(9n) {
+  background-color: #be2edd;
+}
+
+.SwiperSlide:nth-child(10n) {
+  background-color: #535c68;
+}
